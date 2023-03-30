@@ -1,0 +1,15 @@
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.exe
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.deps.json
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.runtimeconfig.json
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.dll
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\bin\Debug\net6.0\SegundoExercicio.pdb
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.csproj.AssemblyReference.cache
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.AssemblyInfo.cs
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.dll
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\refint\SegundoExercicio.dll
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.pdb
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\SegundoExercicio.genruntimeconfig.cache
+C:\projects\adisira\SegundoExercicio\SegundoExercicio\obj\Debug\net6.0\ref\SegundoExercicio.dll

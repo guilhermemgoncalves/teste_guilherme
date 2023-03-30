@@ -1,0 +1,15 @@
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.csproj.AssemblyReference.cache
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.AssemblyInfoInputs.cache
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.AssemblyInfo.cs
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.csproj.CoreCompileInputs.cache
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\bin\Debug\net6.0\QuartoExercicio.exe
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\bin\Debug\net6.0\QuartoExercicio.deps.json
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\bin\Debug\net6.0\QuartoExercicio.runtimeconfig.json
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\bin\Debug\net6.0\QuartoExercicio.dll
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\bin\Debug\net6.0\QuartoExercicio.pdb
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.dll
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\refint\QuartoExercicio.dll
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.pdb
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\QuartoExercicio.genruntimeconfig.cache
+C:\projects\adisira\QuartoExercicio\QuartoExercicio\obj\Debug\net6.0\ref\QuartoExercicio.dll

@@ -1,0 +1,15 @@
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.exe
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.deps.json
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.runtimeconfig.json
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.dll
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.pdb
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.dll
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\refint\PrimeiroExercicio.dll
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.pdb
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.genruntimeconfig.cache
+C:\projects\adisira\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\ref\PrimeiroExercicio.dll

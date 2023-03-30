@@ -1,0 +1,10 @@
+Dentro da função temos 3 condições:
+
+
+Se o numero recebido for igual a 1, retorna 1
+Se o numero recebido for par retorna o numero, dividido por 2
+Se o numero for impar retorna ((n-1) / 2) + ((n+1) /2) 
+
+Como o código cai na terceira condição o resultado é igual a 4
+
+PS: O código foi elaborado na linguagem C
